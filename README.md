@@ -1,10 +1,10 @@
-#MyEcoSpace.API.OpenWeather
+# MyEcoSpace.API.OpenWeather
 Library for OpenWeather API client
 
 ##Description
 This library is necessary for retrieving weather data from the OpenWeather API resource.
 
-##Configuration
+## Configuration
 Create an appconfig.json file next to the executable file with the following structure:
 ```json
 Copy code
@@ -15,7 +15,7 @@ Copy code
 ```
 Where APIKey is your key, which can be generated in your personal account after registration.
 
-##Examples
+## Examples
 ```csharp
 Copy code
 OpenWeather OP = new OpenWeather();
@@ -24,8 +24,10 @@ Console.WriteLine(result.ToString());
 ```
 Where "40.730610" and "-73.935242" are the coordinates of New York.
 
-##License
+## License
 This project is distributed under the [MIT](https://opensource.org/licenses/MIT) license, which allows free use, modification, and distribution of the code in accordance with the terms of the MIT license.
+
+### ================================================================
 
 # MyEcoSpace.API.OpenWeather
 Библиотека клиента OpenWeather API
