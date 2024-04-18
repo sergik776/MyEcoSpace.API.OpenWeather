@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34511.98
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEcoSpace.API.OpenWeather", "MyEcoSpace.API.OpenWeather\MyEcoSpace.API.OpenWeather.csproj", "{ED309874-ED65-43A1-84AC-90D613B16621}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyEcoSpace.API.OpenWeather", "MyEcoSpace.API.OpenWeather\MyEcoSpace.API.OpenWeather.csproj", "{ED309874-ED65-43A1-84AC-90D613B16621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{360441DE-91A2-4260-AE1C-74E3499C99D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{ED309874-ED65-43A1-84AC-90D613B16621}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED309874-ED65-43A1-84AC-90D613B16621}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED309874-ED65-43A1-84AC-90D613B16621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360441DE-91A2-4260-AE1C-74E3499C99D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360441DE-91A2-4260-AE1C-74E3499C99D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360441DE-91A2-4260-AE1C-74E3499C99D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360441DE-91A2-4260-AE1C-74E3499C99D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
