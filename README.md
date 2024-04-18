@@ -1,7 +1,7 @@
 # MyEcoSpace.API.OpenWeather
 Library for OpenWeather API client
 
-##Description
+## Description
 This library is necessary for retrieving weather data from the OpenWeather API resource.
 
 ## Configuration
