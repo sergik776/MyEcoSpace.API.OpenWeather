@@ -7,7 +7,6 @@ This library is necessary for retrieving weather data from the OpenWeather API r
 ## Configuration
 Create an appconfig.json file next to the executable file with the following structure:
 ```json
-Copy code
 {
     "APIKey": "",
     "BaseAddress": "api.openweathermap.org"
@@ -27,7 +26,7 @@ Where "40.730610" and "-73.935242" are the coordinates of New York.
 ## License
 This project is distributed under the [MIT](https://opensource.org/licenses/MIT) license, which allows free use, modification, and distribution of the code in accordance with the terms of the MIT license.
 
-### ================================================================
+### ===========================================================
 
 # MyEcoSpace.API.OpenWeather
 Библиотека клиента OpenWeather API
